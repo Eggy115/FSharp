@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication2.AssemblyInfo
+﻿namespace CodecovExample.TargetProject.AssemblyInfo
 
 open System.Reflection
 open System.Runtime.CompilerServices
@@ -7,11 +7,11 @@ open System.Runtime.InteropServices
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[<assembly: AssemblyTitle("ConsoleApplication2")>]
+[<assembly: AssemblyTitle("CodecovExample.TargetProject")>]
 [<assembly: AssemblyDescription("")>]
 [<assembly: AssemblyConfiguration("")>]
 [<assembly: AssemblyCompany("")>]
-[<assembly: AssemblyProduct("ConsoleApplication2")>]
+[<assembly: AssemblyProduct("CodecovExample.TargetProject")>]
 [<assembly: AssemblyCopyright("Copyright ©  2017")>]
 [<assembly: AssemblyTrademark("")>]
 [<assembly: AssemblyCulture("")>]
